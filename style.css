@@ -34,6 +34,13 @@ header img {
   width: 56px;
 }
 
+header h1 {
+  margin-bottom: 32px;
+  font-family: var(--font);
+  vertical-align: middle;
+  text-align: middle;
+}
+
 textarea {
   width: 100%;
   height: 120px;
